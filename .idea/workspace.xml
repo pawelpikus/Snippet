@@ -14,6 +14,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1Xlwy20EqfpwT7hauODWhWZDSEN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +26,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -92,6 +97,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="336" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582230504608" />
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1584398425176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584398425176" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1584398443536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584398443536" />
     <state width="681" height="266" key="GridCell.Tab.0.bottom" timestamp="1582493957910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -108,9 +121,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="681" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582493957910" />
-    <state x="525" y="175" key="SettingsEditor" timestamp="1581802762634">
+    <state x="525" y="175" key="SettingsEditor" timestamp="1584398392304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="525" y="175" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581802762634" />
+    <state x="525" y="175" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584398392304" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584398471633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584398471633" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584398479006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584398479006" />
   </component>
 </project>
